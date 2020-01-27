@@ -74,10 +74,5 @@ README v1.0 / 21 DECEMBER 2018
 
 	UnitTestovi nazalost nisu odradjeni.
 	 
-## Radili 
-
-	Dejan Vukovic 551/16 - Product owner 
-
-	Aleksa Saveski 210/15 - Scrum master
 	
 	
